@@ -31,7 +31,7 @@
   }
 </script>
 
-<div>
+<div class="max-w-4xl">
   {#if processingImage}
     <div>
       <img

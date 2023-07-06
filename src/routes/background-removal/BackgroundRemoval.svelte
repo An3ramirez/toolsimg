@@ -13,11 +13,11 @@
       <div class="text-center">
         <two-up class="border-2 border-gray-300">
           <img
-            src="/src/assets/mujer-joven-paisaje_250132-3205.jpg"
+            src="src/assets/mujer-joven-paisaje_250132-3205.jpg"
             alt="Imagen de muestra con fondo"
           />
           <img
-            src="/src/assets/mujer-joven-paisaje_250132-3205-removebg.png"
+            src="src/assets/mujer-joven-paisaje_250132-3205-removebg.png"
             alt="Imagen de muestra sin fondo"
           />
         </two-up>
